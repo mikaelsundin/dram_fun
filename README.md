@@ -1,5 +1,6 @@
 # dram_fun
 Arduino with 512kbyte DRAM memory connected.
+
 Proof of concept. Will use all GPIO on Arduino Nano V3. 
 
 Eagle PCB adapter for Arduino Nano V3. 
