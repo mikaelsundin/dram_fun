@@ -244,6 +244,6 @@ void loop(void){
   //update first position
   dram_write(0x100, ++cnt);
 
-  //wait 1 secound before check if data still in DRAM
+  //wait 1 second before check if data still in DRAM
   delay(1000);
 }
