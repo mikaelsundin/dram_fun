@@ -1,2 +1,5 @@
 # dram_fun
-Arduino connected 512kbyte DRAM
+Arduino with 512kbyte DRAM memory connected.
+
+Eagle PCB adapter for Arduino Nano V3. 
+Single sided with one jumper. 
